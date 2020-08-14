@@ -40,8 +40,8 @@
 	<p>
 	    <ol>
 		<li> Once the data points are plotted, press 'ENTER' key to simulate the first step of the algorithm. </li> 
-		<li> The data points will be divided into 2 clusters red and blue, here K=2. </li>
-		<li> As we keep on the pressing the 'ENTER' key, we keep on moving towards proper formation of the clusters. </li> 
+		<li> The data points will be divided into 2 clusters - red and blue, here K=2. </li>
+		<li> As we keep on pressing the 'ENTER' key, we keep on moving towards proper formation of the clusters. </li> 
 		<li> The blue and red points are the data points and the bigger blue and red circles are their centroids. </li>
 		</ol>
 	</p>	

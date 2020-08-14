@@ -6,11 +6,10 @@
 
 
 <div align="center">
-<img src="https://img.shields.io/github/license/sushantPatrikar/K-Means-Clustering-simulation">	
-<img src="https://www.codefactor.io/repository/github/sushantpatrikar/k-means-clustering-simulation/badge">
-<img src="https://img.shields.io/github/issues/sushantPatrikar/K-Means-Clustering-simulation">
-<img src="https://img.shields.io/github/stars/sushantPatrikar/K-Means-Clustering-simulation">
-<img src="https://img.shields.io/github/forks/sushantPatrikar/K-Means-Clustering-simulation">
+<img src="https://www.codefactor.io/repository/github/josvin92/k-means-clustering-simulation">
+<img src="https://img.shields.io/github/issues/josvin92/K-Means-Clustering-simulation">
+<img src="https://img.shields.io/github/stars/josvin92/K-Means-Clustering-simulation">
+<img src="https://img.shields.io/github/forks/josvin92/K-Means-Clustering-simulation">
 <img src="https://img.shields.io/badge/PRs-welcome-informational">
 </div>
 
